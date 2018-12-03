@@ -8,4 +8,4 @@ I do not own Advent of Code (obviously). These solutions are not the best. Of co
 Um... as I said above, you can use them, free of charge. The MIT license is there for that reason. So... yeah.
 
 ## Issues
-Please, if you want to, update the code to be optimised. I would appreciate that.
+Please, if you want to, update the code to be optimised. I would appreciate that. I'm anything but an expert. So, if you (whoever you are) see an issue with my code, change it so that I can learn more about PHP and best practises!
